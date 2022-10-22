@@ -1,15 +1,26 @@
-## Creator
-Vishal Birajdar #Linkedin #Profile [https://linkedin.com](https://linkedin.com)
+## Creator : Vishal Birajdar
+Linkedin  Profile [https://linkedin.com](https://linkedin.com)
 
-## TrueContract
+## Project Name : TrueContract
 
-First, run the development server:
+## project Aim
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+-- Help to make trusted transaction between two tokens.
+--contract help to create trust between two user to transfer their crypto tokens between them
+
+## How is it work ?
+-- Create an ticket
+-- copy token Id from last History
+-- Send
+
+## What is Used To make This project ? 
+-solidity (smart contract)
+-Nextjs
+-Etherjs
+-web3
+-hardhat
+-openzepline
+--metamask
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
