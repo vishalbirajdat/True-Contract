@@ -5,14 +5,14 @@ Linkedin  Profile [https://linkedin.com](https://linkedin.com)
 
 ## project Aim
 
--- Help to make trusted transaction between two tokens.
---contract help to create trust between two user to transfer their crypto tokens between them
+- Help to make trusted transaction between two tokens.
+-+contract help to create trust between two user to transfer their crypto tokens between them
 
 ## How is it work ?
--- Create an ticket
--- copy token Id from last History
--- Send token id to friend
--- 
+- Create an ticket
+- copy token Id from last History
+- Send token id to friend
+ 
 
 ## What is Used To make This project ? 
 -solidity (smart contract)
@@ -21,7 +21,7 @@ Linkedin  Profile [https://linkedin.com](https://linkedin.com)
 -web3
 -hardhat
 -openzepline
---metamask
+-metamask
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
