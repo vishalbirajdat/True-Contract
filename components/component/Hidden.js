@@ -38,7 +38,7 @@ function Hidden() {
 
 
     const AccountChanged = async () => {
-        toastFunction(TOASTS.INFO, "Wallet changed");
+      
         await connectWallet();
     }
 
@@ -66,7 +66,7 @@ function Hidden() {
                     provider: [providerWallet], address: address, balance
                         : ethers.utils.formatEther(balance)
                 }));
-                toastFunction(TOASTS.SUCCESS, "Successfully Connected");
+               
             }
         } catch (error) {
             toastFunction(TOASTS.WARNING, error.message);
