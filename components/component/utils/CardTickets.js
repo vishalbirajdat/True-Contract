@@ -68,20 +68,21 @@ const CardTickets = ({ticket, times}) => {
     }
 
   return (
-      <div className='rounded-5 p-1 bg-warning' style={{
-          marginTop: screen == "sm" ? "30px" : "50px",
-          marginBottom: screen == "sm" ? "30px" : "50px",
-          marginLeft: screen == "sm" ? "0px" : "50px",
-          marginRight: screen == "sm" ? "0px" : "50px",
-          width: screen == "sm" ? "100%" : "500px",
+      <div style={{
+          marginLeft: screen == "sm" ? "5px" : "20px",
+          marginRight: screen == "sm" ? "5px" : "20px",
+          marginBottom: screen == "sm" ? "40px" : "20px",
+          marginTop: screen == "sm" ? "40px" : "20px",
+          width: screen == "sm" ? "100%" : "370px",
       }}>
 
-          <div className='rounded-5 p-5 bg-dark' style={{
+          <div className='rounded-5 p-4 bg-dark' style={{
               display: "flex",
               flexDirection: 'column',
               justifyContent: "center",
               alignItems: 'center',
               width: "100%",
+              margin:"auto",
           }}>
 
               {ticket && <>

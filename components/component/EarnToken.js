@@ -142,9 +142,6 @@ function EarnToken() {
     return (
         <>
 
-
-         
-
         <div className='rounded-5 p-1 bg-warning' style={{
             marginTop: screen == "sm" ? "30px" : "100px",
             marginBottom: screen == "sm" ? "30px" : "100px",
@@ -153,12 +150,14 @@ function EarnToken() {
             marginRight: "auto"
         }}>
 
-            <div className='rounded-5 p-5 bg-dark' style={{
+            <div className='rounded-5 bg-dark' style={{
                 display: "flex",
                 flexDirection: 'column',
                 justifyContent: "center",
                 alignItems: 'center',
                 width: "100%",
+                    padding: screen == "sm" ? "20px" : "50px",
+                            margin: "auto",
             }}>
 
 

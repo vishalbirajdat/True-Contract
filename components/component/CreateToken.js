@@ -73,20 +73,24 @@ function CreateToken() {
         setdata({...data,[e.target.name]:e.target.value} )
     }
     return (
-        <div className=' rounded-5 p-5' style={{
+        <div className=' rounded-5' style={{
                 display: "flex",
             background: "hsl(42, 99%, 46%)",
                 justifyContent: "center",
                 alignItems:'center',
                 flexDirection:'column',
+                paddingBottom: screen == "sm" ? "5px" : "50px",
+                paddingTop: screen == "sm" ? "30px" : "50px",
+                paddingLeft: screen == "sm" ? "10px" : "50px",
+                paddingRight: screen == "sm" ? "10px" : "50px",
                 marginTop: screen == "sm" ? "30px" : "100px",
                 marginBottom: screen == "sm" ? "30px" : "100px",
             }}>
  
 
-            <Stack style={{ width: "98%", padding: screen == "sm" ? "5px" : "0px",   justifyContent: "center"}} direction={screen == 'sm' ? "vertical" : "horizontal"} gap={5}>
+            <Stack style={{ width: "99%", justifyContent: "center"}} direction={screen == 'sm' ? "vertical" : "horizontal"} gap={5}>
 
-                <div className=' bg-dark rounded-5 p-5 ' style={{ width: "98%" }}>
+                <div className=' bg-dark rounded-5 p-5 ' style={{ width: "99%" }}>
                     <Form.Group className="mb-3 w-95"  controlId="formBasicEmail">
                         <Form.Label>From Contract</Form.Label>
                         <Form.Control type="text" onChange={ChangedData} name="fromcontract" placeholder="Enter Token Contract Address" />
@@ -99,7 +103,7 @@ function CreateToken() {
                     </Form.Group>
 
                     </div>
-                <div className='bg-secondary rounded-5 p-5 ' style={{ width: "98%"  }}>
+                <div className='bg-secondary rounded-5 p-5 ' style={{ width: "99%"  }}>
 
                     <Form.Group className="mb-3 w-full" controlId="formBasicEmail">
                         <Form.Label>To Contract</Form.Label>
