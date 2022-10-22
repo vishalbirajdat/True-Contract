@@ -2,26 +2,30 @@
 Linkedin  Profile [https://linkedin.com](https://linkedin.com)
 
 ## Project Name : TrueContract
+Link 
 
 ## project Aim
 
 - Help to make trusted transaction between two tokens.
--+contract help to create trust between two user to transfer their crypto tokens between them
+- contract help to create trust between two user to transfer their crypto tokens between them
 
 ## How is it work ?
 - Create an ticket
 - copy token Id from last History
 - Send token id to friend
- 
+- Add Token Id in Earn Reward Sector
+- Pay Balace token and complete the process
+- Get Rward
+- Withdraw reward  
 
 ## What is Used To make This project ? 
--solidity (smart contract)
--Nextjs
--Etherjs
--web3
--hardhat
--openzepline
--metamask
+- solidity (smart contract)
+- Nextjs
+- Etherjs
+- web3
+- hardhat
+- openzepline
+- metamask
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
