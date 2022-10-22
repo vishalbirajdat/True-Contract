@@ -11,7 +11,8 @@ Linkedin  Profile [https://linkedin.com](https://linkedin.com)
 ## How is it work ?
 -- Create an ticket
 -- copy token Id from last History
--- Send
+-- Send token id to friend
+-- 
 
 ## What is Used To make This project ? 
 -solidity (smart contract)
