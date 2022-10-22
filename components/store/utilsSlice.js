@@ -1,10 +1,12 @@
-const { createSlice } = require('@reduxjs/toolkit');
+import useWindowDimensions from '../utils/useWindowDimensions';
+
+const { createSlice, createAsyncThunk } = require('@reduxjs/toolkit');
 
 const utilsSlice = createSlice({
     name: 'auth',
     initialState:
     {
-        screen: typeof window !== 'undefined' ? window.innerWidth < 600 ? "sm" : "lg" : null,
+        screen: null,
     }
     ,
     reducers: {
@@ -13,7 +15,24 @@ const utilsSlice = createSlice({
         },
 
     },
+
+    extraReducers: (builder) => {
+        builder
+
+           
+            .addCase(fetchScreen.fulfilled, (state, action) => {
+                state.screen = action.payload
+            })
+           
+    },
 });
 
 export const { changedScreen } = utilsSlice.actions;
 export default utilsSlice.reducer;
+
+// // Thunks
+export const fetchScreen = createAsyncThunk('all/fetchScreen', async () => {
+    const data = await useWindowDimensions();
+    return data;
+});
+

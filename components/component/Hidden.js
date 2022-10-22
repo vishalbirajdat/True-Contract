@@ -4,7 +4,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import { PacmanLoader } from 'react-spinners';
 import { changed } from '../store/authSlice';
 import { fetchAll } from '../store/ticketSlice';
-import { changedScreen } from '../store/utilsSlice';
+import { changedScreen, fetchScreen } from '../store/utilsSlice';
 import connectToWallet from '../utils/connectToWallet';
 import { STATUSES, TOASTS } from '../utils/constants';
 import toastFunction from '../utils/spinners.js/ToastShow';
@@ -26,6 +26,10 @@ function Hidden() {
     }, [provider])
 
     useEffect(() => {
+        dispatch(fetchScreen());
+    }, [])
+
+    useEffect(() => {
         try {
             ethereum?.on("accountsChanged", AccountChanged);
             return () => {
@@ -38,7 +42,6 @@ function Hidden() {
 
 
     const AccountChanged = async () => {
-      
         await connectWallet();
     }
 
@@ -66,7 +69,6 @@ function Hidden() {
                     provider: [providerWallet], address: address, balance
                         : ethers.utils.formatEther(balance)
                 }));
-               
             }
         } catch (error) {
             toastFunction(TOASTS.WARNING, error.message);

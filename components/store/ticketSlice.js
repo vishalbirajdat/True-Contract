@@ -36,7 +36,7 @@ const ticketSlice = createSlice({
     extraReducers: (builder) => {
         builder
 
-        // all NFTS
+            // all NFTS
             .addCase(fetchAll.pending, (state, action) => {
                 state.AllTICKETS.status = STATUSES.LOADING;
             })
@@ -49,7 +49,7 @@ const ticketSlice = createSlice({
             })
             .addCase(fetchAll.rejected, (state, action) => {
                 state.AllTICKETS.status = STATUSES.ERROR;
-        });
+            });
     },
 });
 
