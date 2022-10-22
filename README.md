@@ -18,7 +18,7 @@ Link
 - Get Rward
 - Withdraw reward  
 
-## What is Used To make This project ? 
+## What is used To make this project ? 
 - solidity (smart contract)
 - Nextjs
 - Etherjs
@@ -26,6 +26,17 @@ Link
 - hardhat
 - openzepline
 - metamask
+
+
+## Other projects
+- Own Blockchain
+- TrueToken
+- NFT Marketplace
+- Crowdfunding
+- Sentiments
+ 
+
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
