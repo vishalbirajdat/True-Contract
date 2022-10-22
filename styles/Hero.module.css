@@ -1,0 +1,29 @@
+.hero{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+  width: 90%;
+}
+
+.sunTitle{
+    color: hsl(0, 0%, 50%);
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+}
+
+
+.sunValue{
+     font-size: 25px;
+  font-weight: bold;
+  text-transform: uppercase;
+  display: inline-block;
+  color: var(--marigold);
+  margin-left: 10px;
+  cursor: pointer;
+}

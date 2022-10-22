@@ -1,0 +1,7 @@
+:root{
+    --marigold: hsl(42, 99%, 46%);
+}
+
+.marigoold{
+  color:var(--marigold)
+}
