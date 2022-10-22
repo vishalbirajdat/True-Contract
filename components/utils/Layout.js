@@ -3,7 +3,7 @@ import { Provider } from 'react-redux'
 import store from '../store/store'
 import { ToastContainer } from 'react-toastify';
 import Header from '../component/Header';
-import Hidden from '../component/hidden';
+import Hidden from '../component/Hidden';
 
 const Layout = ({children}) => {
 
