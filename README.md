@@ -29,8 +29,22 @@ Link : [https://tokencontract.vercel.app/](https://tokencontract.vercel.app/)
 
 
 ## Other projects
-- Own Blockchain : [https://linkedin.com](https://linkedin.com)
-- TrueToken : [https://tokencontract.vercel.app/](https://tokencontract.vercel.app/)
-- NFT Marketplace : [https://linkedin.com](https://linkedin.com)
-- Crowdfunding : [https://linkedin.com](https://linkedin.com)
-- Sentiments : [https://linkedin.com](https://linkedin.com)
+
+## Own Blockchain : 
+- Github Link : [https://linkedin.com](https://linkedin.com)
+
+## TrueToken : 
+- Github Link [https://tokencontract.vercel.app/](https://tokencontract.vercel.app/)
+- Live website Link [https://tokencontract.vercel.app/](https://tokencontract.vercel.app/)
+
+## NFT Marketplace :
+- Github Link [https://tokencontract.vercel.app/](https://tokencontract.vercel.app/)
+- Live website Link [https://tokencontract.vercel.app/](https://tokencontract.vercel.app/)
+
+## Crowdfunding :
+- Github Link : [https://linkedin.com](https://linkedin.com)
+
+## Sentiments : 
+- Github Link [https://tokencontract.vercel.app/](https://tokencontract.vercel.app/)
+- Live website Link [https://tokencontract.vercel.app/](https://tokencontract.vercel.app/)
+
