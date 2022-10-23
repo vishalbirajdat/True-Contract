@@ -2,7 +2,7 @@
 Linkedin  Profile [https://linkedin.com](https://linkedin.com)
 
 ## Project Name : TrueContract
-Link : [https://linkedin.com](https://linkedin.com)
+Link : [https://tokencontract.vercel.app/](https://tokencontract.vercel.app/)
 
 ## project Aim
 
@@ -30,7 +30,7 @@ Link : [https://linkedin.com](https://linkedin.com)
 
 ## Other projects
 - Own Blockchain : [https://linkedin.com](https://linkedin.com)
-- TrueToken : [https://linkedin.com](https://linkedin.com)
+- TrueToken : [https://tokencontract.vercel.app/](https://tokencontract.vercel.app/)
 - NFT Marketplace : [https://linkedin.com](https://linkedin.com)
 - Crowdfunding : [https://linkedin.com](https://linkedin.com)
 - Sentiments : [https://linkedin.com](https://linkedin.com)
