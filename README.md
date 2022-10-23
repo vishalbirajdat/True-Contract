@@ -10,6 +10,7 @@ Link : [https://tokencontract.vercel.app/](https://tokencontract.vercel.app/)
 - contract help to create trust between two user to transfer their crypto tokens between them
 
 ## How is it work ?
+- Connect to wallet
 - Create an ticket
 - copy token Id from last History
 - Send token id to friend
