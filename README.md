@@ -2,7 +2,7 @@
 Linkedin  Profile [https://linkedin.com](https://linkedin.com)
 
 ## Project Name : TrueContract
-Link 
+Link : [https://linkedin.com](https://linkedin.com)
 
 ## project Aim
 
@@ -24,13 +24,13 @@ Link
 - Etherjs
 - web3
 - hardhat
-- openzepline
+- openzeppelin
 - metamask
 
 
 ## Other projects
-- Own Blockchain
-- TrueToken
-- NFT Marketplace
-- Crowdfunding
-- Sentiments
+- Own Blockchain : [https://linkedin.com](https://linkedin.com)
+- TrueToken : [https://linkedin.com](https://linkedin.com)
+- NFT Marketplace : [https://linkedin.com](https://linkedin.com)
+- Crowdfunding : [https://linkedin.com](https://linkedin.com)
+- Sentiments : [https://linkedin.com](https://linkedin.com)
