@@ -32,7 +32,7 @@ Link : [https://tokencontract.vercel.app/](https://tokencontract.vercel.app/)
 ## Other projects
 
 ### Own Blockchain : 
-- Github Link : [https://linkedin.com](https://linkedin.com)
+- Github Link : [https://github.com/vishalbirajdat/own-blockchain](https://github.com/vishalbirajdat/own-blockchain)
 
 ### TrueToken : 
 - Github Link [https://github.com/vishalbirajdat/True-Contract](https://github.com/vishalbirajdat/True-Contract)
