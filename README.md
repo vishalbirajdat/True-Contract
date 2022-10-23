@@ -1,5 +1,5 @@
 ## Creator : Vishal Birajdar
-Linkedin  Profile [https://linkedin.com](https://linkedin.com)
+Linkedin  Profile [https://www.linkedin.com/in/vishal-birajdar-523b12197](https://www.linkedin.com/in/vishal-birajdar-523b12197)
 
 ## Project Name : TrueContract
 Link : [https://tokencontract.vercel.app/](https://tokencontract.vercel.app/)
