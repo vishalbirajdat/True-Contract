@@ -34,17 +34,17 @@ Link : [https://tokencontract.vercel.app/](https://tokencontract.vercel.app/)
 - Github Link : [https://linkedin.com](https://linkedin.com)
 
 ### TrueToken : 
-- Github Link [https://tokencontract.vercel.app/](https://tokencontract.vercel.app/)
+- Github Link [https://github.com/vishalbirajdat/True-Contract](https://github.com/vishalbirajdat/True-Contract)
 - Live website Link [https://tokencontract.vercel.app/](https://tokencontract.vercel.app/)
 
 ### NFT Marketplace :
-- Github Link [https://tokencontract.vercel.app/](https://tokencontract.vercel.app/)
-- Live website Link [https://tokencontract.vercel.app/](https://tokencontract.vercel.app/)
+- Github Link [https://github.com/vishalbirajdat/NAFT](https://github.com/vishalbirajdat/NAFT)
+- Live website Link [https://nfts-lemon.vercel.app/](https://nfts-lemon.vercel.app/)
 
 ### Crowdfunding :
 - Github Link : [https://linkedin.com](https://linkedin.com)
 
 ### Sentiments : 
-- Github Link [https://tokencontract.vercel.app/](https://tokencontract.vercel.app/)
-- Live website Link [https://tokencontract.vercel.app/](https://tokencontract.vercel.app/)
+- Github Link [https://github.com/vishalbirajdat/Sentiments](https://github.com/vishalbirajdat/Sentiments)
+- Live website Link [https://sentiments-alpha.vercel.app/](https://sentiments-alpha.vercel.app/)
 
